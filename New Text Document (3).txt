@@ -1,0 +1,30 @@
+
+
+
+\\</option>
+<option value = "HDFC"> HDFC
+</option>
+<option value = "AXIS"> AXIS
+</option>
+<option value = "HCL"> HCL
+</option>
+<option value = "ICICI"> ICICI
+</option>
+<option value = "ITC"> ITC
+</option>
+<option value = "TCS"> TCS
+</option>
+<option value = "Adani Total gas"> Adani Total gas
+</option>
+<option value = "Adani Green energy"> Adani Green Energy
+</option>  
+<option value = "Wipro"> Wipro
+</option>
+<option value = "Tata Steel"> Tata Steel
+</option>
+</select>
+<input type = "date">  
+<button type="submit" name="btn">From date</button>
+<input type = "date">  
+<button type="submit" name="btn">To date</button>
+</form>
